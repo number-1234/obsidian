@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "9939d947967504d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1832427026f578a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36ce40039d3292fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-Bash脚本入门.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-Bash脚本入门"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed1d40cb57cc83f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f97075c3c850284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14fa89630d3615da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "60a8e838d251c7f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f5e6060910e35a1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f01914c267ea035",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc8f180781e261b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bc82e78f51a8d17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-终端、命令格式与帮助.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "02-终端、命令格式与帮助 的反向链接列表"
+            }
+          },
+          {
+            "id": "eab98b42d995bee8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-终端、命令格式与帮助.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "02-终端、命令格式与帮助 的出链列表"
+            }
+          },
+          {
+            "id": "3c3fd8231e4417b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a3acc55b0072924d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e53b0a7e282a385f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-终端、命令格式与帮助.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "02-终端、命令格式与帮助 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "36ce40039d3292fa",
+  "lastOpenFiles": [
+    "15-OpenCV常用函数速查与学习路线.md",
+    "07-进程、作业与服务.md",
+    "06-重定向、管道与命令组合.md",
+    "00-Linux基础学习地图.md",
+    "01-Linux与目录结构.md",
+    "08-软件包、网络与磁盘.md",
+    "02-终端、命令格式与帮助.md",
+    "03-文件与目录操作.md",
+    "04-查看、搜索与文本处理.md",
+    "05-权限、用户与sudo.md",
+    "09-Shell、环境变量与配置.md",
+    "12-高频命令速查表.md",
+    "14-安全练习清单.md",
+    "10-Bash脚本入门.md",
+    "11-Vim与Nano入门.md",
+    "13-记忆卡片.md"
+  ]
+}
